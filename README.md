@@ -17,8 +17,6 @@ Documenting my Solidity and Web3 journey using the Cyfrin Updraft course.
 - Mappings
 - Deploying first contract on testnet via Metamask
 
-### Solidity 101 — Section 2 — coming soon
-
 ## Tools Used
 - [Remix IDE](https://remix.ethereum.org)
 - MetaMask
