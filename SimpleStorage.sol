@@ -10,7 +10,7 @@ contract SimpleStorage{
     Person[] public listOfPeople;
     mapping(string => uint256) public nameToFavouriteNumber; // it is like a dictionary
 
-    function store(uint256 _favtnum) public{
+    function store(uint256 _favtnum) public virtual{
         myFavouriteNumber = _favtnum;
     }
     function retrive() view public returns(uint){
