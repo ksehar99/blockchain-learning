@@ -1,5 +1,5 @@
 # Blockchain Learning
-Documenting my Solidity and Web3 journey using the Cyfrin Updraft course.
+Documenting my Solidity journey using the Cyfrin Updraft course.
 
 ## Course
 [Cyfrin Updraft](https://updraft.cyfrin.io) — Solidity Smart Contract Development
