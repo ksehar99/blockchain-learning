@@ -6,7 +6,7 @@ Here documenting my Solidity journey using the Cyfrin Updraft course.
 - [Cyfrin Updraft — Solidity 101](https://profiles.cyfrin.io/u/khadijasehar10/achievements/solidity)
 
 ## Course
-[Cyfrin Updraft](https://updraft.cyfrin.io) — Solidity Smart Contract Development
+[Cyfrin Updraft]([https://updraft.cyfrin.io](https://updraft.cyfrin.io/courses/solidity)) — Solidity Smart Contract Development
 
 ## Progress
 
